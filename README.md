@@ -1,16 +1,9 @@
-# todo_app
+# TODO APP
 
-A new Flutter project.
+A simple TODO app made using Flutter, Firebase and Provider. All the TODOs are stored in Firestore Database. Firebase google authentication is used for Google Signin.
+Features of the app are as follows:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. You can add new TODOs.
+2. You can edit/update existing TODOs.
+3. You can delete any TODOs.
+4. You can sign in using your google account and can access all the TODOs anywhere.
